@@ -1,0 +1,6 @@
+﻿A construção começou em 08:42...
+1>------ Compilação iniciada: Projeto: km, Configuração: Debug x64 ------
+1>FileName.c
+1>km.vcxproj -> C:\Users\Aluno\Desktop\Salvador\km\x64\Debug\km.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 08:42 e levou 00,998 segundos ==========
