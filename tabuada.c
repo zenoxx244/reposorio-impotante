@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <locale.h>
+int main(void) 
+{
+ int numero, n;
+
+    printf("Digite um numero: ");
+    scanf_s("%d", &numero);
+    printf("Tabuada do %d:\n", numero);
+    for (n = 1; n <= 10; n++) {  
+    printf("%d x %d = %d\n", numero, n, numero * n);
+     }
+    return 0;
+}
